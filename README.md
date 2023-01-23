@@ -8,6 +8,9 @@
 [![SonarQube Coverage](https://img.shields.io/sonar/http/sonarqube.com/com.amadeus:session/coverage.svg?style=flat-square)](https://sonarqube.com/dashboard?id=com.amadeus%3Asession)
 [![SonarQube Tech Debt](https://img.shields.io/sonar/http/sonarqube.com/com.amadeus:session/tech_debt.svg?style=flat-square)](https://sonarqube.com/dashboard?id=com.amadeus%3Asession)
 
+![image](https://user-images.githubusercontent.com/17984781/214018879-557fa0bb-6eea-448f-89df-45090d27791a.png)
+
+
 This project provides session management including, possibly, distributed
 session repository for JEE and other java containers. Default implementation
 comes with in-memory and Redis based implementation.
