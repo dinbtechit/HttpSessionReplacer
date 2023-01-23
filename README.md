@@ -8,7 +8,8 @@
 [![SonarQube Coverage](https://img.shields.io/sonar/http/sonarqube.com/com.amadeus:session/coverage.svg?style=flat-square)](https://sonarqube.com/dashboard?id=com.amadeus%3Asession)
 [![SonarQube Tech Debt](https://img.shields.io/sonar/http/sonarqube.com/com.amadeus:session/tech_debt.svg?style=flat-square)](https://sonarqube.com/dashboard?id=com.amadeus%3Asession)
 
-![image](https://user-images.githubusercontent.com/17984781/214018879-557fa0bb-6eea-448f-89df-45090d27791a.png)
+![image](https://user-images.githubusercontent.com/17984781/214019063-07da5f86-6a3e-42c8-81e3-662b78995cc8.png)
+
 
 
 This project provides session management including, possibly, distributed
